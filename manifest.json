@@ -1,0 +1,26 @@
+{
+  "name": "Nhắc Sinh Nhật",
+  "short_name": "Sinh Nhật",
+  "description": "Ứng dụng nhắc nhở sinh nhật người thân và bạn bè",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF5F9",
+  "theme_color": "#9B5DE5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "lifestyle"],
+  "lang": "vi"
+}
